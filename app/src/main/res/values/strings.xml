@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Desafio Ciclobike</string>
+    <string name="filtrar_las_condes">Filtrar Las Condes</string>
+    <string name="lista_sin_filtrar">Lista Sin Filtrar</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ingrese_palabras_a_filtrar">Ingrese palabras a filtrar</string>
+    <string name="buscar">Buscar</string>
+    <string name="ingrese_el_texto_a_buscar">Ingrese el texto a buscar.</string>
+    <string name="ingrese_el_numero_a_buscar">Ingrese el numero a buscar.</string>
+    <string name="icono_de_ciclovia">Icono de ciclovia</string>
+</resources>
